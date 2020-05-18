@@ -9,7 +9,7 @@ class Popup extends React.Component {
       time: "start",
       title: "Welcome to 2020 quiz",
       text:
-        "This is a quiz app made with ReactJS. Any questions can be addded to this quizz DB.",
+        "This is a quiz app made with ReactJS. Any questions can be addded to this quiz DB.",
       buttoText: "Start the quiz",
     };
   }
