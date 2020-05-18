@@ -6,10 +6,10 @@ class Popup extends React.Component {
     super(props);
 
     this.state = {
-      time: "start",
+      time: "Start",
       title: "Welcome to 2020 quiz",
       text:
-        "This is a quiz app made with ReactJS. Any questions can be addded to this quiz DB.",
+        "This is a quiz app made with ReactJS. Any questions can be added to this quiz DB.",
       buttoText: "Start the quiz",
     };
   }
